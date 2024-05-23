@@ -4,5 +4,5 @@ Find your average score in an examination
 
 *Usage:*
 #+begin_src
-avgcalc [nums] -b [outof] (-o [denominators])+begin_src
+avgcalc [nums] -b [outof] (-o [denominators])
 #+end_src
